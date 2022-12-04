@@ -196,7 +196,7 @@ def standardize(list_of_s):
     
     Parameters
     ----------
-    list_of_s : TYPE
+    list_of_s : list[string]
         one-dimensional list of strings to be formatted
 
     Returns
