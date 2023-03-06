@@ -1,6 +1,8 @@
 # champions-league-monte-carlo
 CHAMPIONS LEAGUE DRAW 22/23 MONTE CARLO SIMULATOR
 
+(For correct formatting, open "Raw")
+
 The Champions League is football's most prestigious club competition.
 The knockout stage draw presents a rather interesting probability problem, so I
 wrote a Monte Carlo simulator for it.
